@@ -1,4 +1,7 @@
 ## Hi there 👋
+** It's Me Kushal Baniya from Nepal currently studying Computer Networking Technician at Centennial College, Canada.**
+## I love Coding and learning new machine language 📠
+- I am currently working as a Soccer Referee and a agent in invisible.
 
 <!--
 **kusalba/kusalba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
